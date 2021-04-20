@@ -1,3 +1,6 @@
 **/.idea
-*.yalm
+*.yaml
 *.html
+**/venv
+# track all .py files
+!*.py
